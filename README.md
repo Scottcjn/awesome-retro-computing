@@ -32,3 +32,10 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
 
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain rewarding vintage hardware
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [GitHub](https://github.com/Scottcjn)
