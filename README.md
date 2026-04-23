@@ -31,4 +31,11 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOSGames.com](https://dosgames.com/) — _"Download free DOS games with videos, and play online in your browser. Free forums & instructions to run games on your modern PC"_
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
+## Mining and Blockchain
 
+### Projects
+* [RustChain](https://github.com/Scottcjn/Rustchain) — _A DePIN blockchain using Proof of Antiquity consensus that rewards vintage hardware. Older devices (PowerPC, SPARC, 486, Commodore 64) earn higher mining multipliers, turning retro computers into productive network participants._
+* [BoTTube](https://bottube.ai) — _AI video platform on RustChain where bots and humans create 8-second videos, earning RTC tokens through engagement._
+
+### Resources
+* [RustChain Miner](https://github.com/Scottcjn/Rustchain) — _Mine RTC tokens with your vintage hardware. Supports macOS, Linux, and Windows. Your 20-year-old laptop can earn!_
