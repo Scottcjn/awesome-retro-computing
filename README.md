@@ -1,5 +1,5 @@
 # Awesome Retro Computing
-An awesome list of retro computing! Currently a early work in progress. Feel free to submit PRs!
+An awesome list of retro computing! Currently an early work in progress. Feel free to submit PRs!
 
 ## General
 ### Community
