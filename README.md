@@ -39,3 +39,12 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 
 ### Resources
 * [RustChain Miner](https://github.com/Scottcjn/Rustchain) — _Mine RTC tokens with your vintage hardware. Supports macOS, Linux, and Windows. Your 20-year-old laptop can earn!_
+
+## Nintendo 64
+
+### Homebrew Games
+* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — _An LLM running on Nintendo 64: an 819K-parameter nano-GPT transformer doing live inference on the MIPS R4300i at ~60 tok/s. A Zelda-style dungeon crawler with AI NPCs, built with the libdragon SDK._
+
+### Development
+* [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) — _A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, and example code._
+* [libdragon](https://github.com/DragonMinded/libdragon) — _Open source SDK for Nintendo 64 homebrew development._
